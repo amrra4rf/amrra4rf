@@ -1,21 +1,32 @@
 # Hi 👋, I'm Amr Ashraf
 
-### Software Testing | Computer Science & Engineering Student
+### 🎓 Computer Science & Engineering Student | Software Testing & Automation
 
-I'm a Computer Science and Engineering student at Ain Shams University, interested in software quality, test automation, and AI-powered applications.
+I'm a Computer Science and Engineering student at Ain Shams University, interested in software quality, test automation, and building reliable applications. I'm also exploring AI and machine learning to discover how they can improve software development and testing.
 
-- 🔭 Currently working on software testing and automation projects
-- 🧪 Learning manual testing, Selenium, and TestNG
-- 🤖 Exploring machine learning and AI
-- 💻 Interested in building practical projects and improving my problem-solving skills
-- 📫 Reach me through [LinkedIn](YOUR_LINKEDIN_URL)
+- 🧪 Learning and practicing manual testing and test automation
+- 💻 Working with Selenium WebDriver, Java, and TestNG
+- 🤖 Exploring machine learning and AI-powered applications
+- 🔍 Interested in finding bugs, improving software quality, and solving real-world problems
+- 📚 Always learning new technologies and improving my technical skills
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/amr-ashraf1/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/amrra4rf">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
 ## 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,ts,git,github,vscode,selenium,docker&perline=6" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,git,github,vscode,selenium&perline=10" alt="Languages and Tools" />
 </p>
 
 ---
@@ -28,19 +39,11 @@ I'm a Computer Science and Engineering student at Ain Shams University, interest
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=amrra4rf&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="70%" src="https://streak-stats.demolab.com/?user=amrra4rf&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="www.linkedin.com/in/amr-ashraf1">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/amrra4rf">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+<p align="center">
+  <i>💙 Always learning, testing, building, and improving.</i>
 </p>
-
